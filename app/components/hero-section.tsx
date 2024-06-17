@@ -33,15 +33,8 @@ export const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'm a dedicated software engineer with a fervent enthusiasm for
-            technology and process automation. With a background in the dynamic
-            environment of financial startups, I bring a wealth of experience
-            collaborating with diverse teams. I am adept at initiating process
-            enhancements and have successfully spearheaded large-scale projects,
-            overseeing them from inception to completion while driving
-            continuous improvement. Committed to ongoing professional growth, I
-            aspire to broaden my horizons and embrace every challenge as an
-            opportunity for learning and development.
+            Here you will be able to know a little more about me, see links of
+            interest and some small implementation that I have created.
           </p>
           <div>
             <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500  hover:bg-slate-200 text-white">
